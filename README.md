@@ -59,3 +59,36 @@ Three models were trained to predict AQI:
 | 🌳 Decision Tree      | 46%                 |
 
 ---  
+
+##  How to Use
+
+1. Open the `.ipynd` file in Google colab.
+2. To view Visualisations , Open the screenshots folder on this repo
+3. To access the Dataset refer to AQI.csv
+---
+
+## 🚀 Future Improvements
+
+-Integrate real-time AQI data using APIs or web scraping
+-Add more features like wind speed, PM2.5, and industrial emissions
+
+---
+## 🧠 What I Learned from This Project
+-How to collect and clean real-world data from multiple sources
+-Performed exploratory data analysis (EDA) to uncover trends and correlations
+-Built and evaluated multiple regression models using scikit-learn
+-Learned the impact of environmental features on air pollution
+-Improved my skills in data visualization and interpretation
+
+---
+
+## About me 
+
+I’m an aspiring Data Analyst and Data Engineer, passionate about transforming raw data into actionable insights. This project showcases my ability to collect, clean, analyze, visualize data, and build predictive 
+models to solve real-world problems using machine learning.
+
+---
+
+##  Feedback
+
+Feel free to reach out with suggestions, improvements, or collaboration ideas!
